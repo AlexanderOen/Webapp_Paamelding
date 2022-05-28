@@ -5,5 +5,6 @@ Java web applikasjon for et påmeldingsprogram. Applikasjonen består av servlet
 Brukstilfellene:
 
 1: En bruker skal kunne melde seg på festen.
+
 2: En påmeldt deltager skal se kunne se listen over påmeldte.
 
