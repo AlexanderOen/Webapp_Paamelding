@@ -8,3 +8,6 @@ Brukstilfellene:
 
 2: En påmeldt deltager skal se kunne se listen over påmeldte.
 
+Innloggingslogikk valideres i Javascript. F.eks: at mobilnr kun består av 8 tall, men ingen bokstaver, og at passordet er langt nok.
+
+Passord ble saltet av bcrypt algoritmen
