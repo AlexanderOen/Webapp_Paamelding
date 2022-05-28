@@ -10,4 +10,6 @@ Brukstilfellene:
 
 Innloggingslogikk valideres i Javascript. F.eks: at mobilnr kun består av 8 tall, men ingen bokstaver, og at passordet er langt nok.
 
-Passord ble saltet av bcrypt algoritmen
+Passord ble saltet av bcrypt algoritmen.
+
+Skjermbilder av kjøring kan ses i PDFen.
